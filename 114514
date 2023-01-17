@@ -1,0 +1,6 @@
+private class Hello_JVAV -> {
+  public violated Void main(String<Array> args) -> {
+    Sys.o.printer = ConsolePrinter(null);
+    Sys.o.printer.printText = 'Hello Jvav'
+  }
+}
